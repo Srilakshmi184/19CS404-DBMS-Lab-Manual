@@ -22,8 +22,9 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_fitness.png)
+
+<img width="891" height="529" alt="image" src="https://github.com/user-attachments/assets/f93d8fb3-ddaa-4aad-a9c0-763d5d0df24a" />
+
 
 ### Entities and Attributes
 
@@ -34,6 +35,40 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 |        |                    |       |
 |        |                    |       |
 |        |                    |       |
+
+1. Customer
+* customerID
+* Name
+* Phone no
+2. Reservation
+* reservationID
+* Reservation date and time
+* customerID
+3. Table
+* tableID
+* Table number
+* Capacity
+4. Category
+* categoryID
+* Category Name
+5. Dish
+* dishID
+* Name
+* Price
+* categoryID
+6. Order
+* orderID
+* Order time
+* reservationID
+* waiterID
+7. Bill
+* billID
+* Total amount
+* orderID
+8. Waiter
+* waiterID
+* Name
+* Phone no
 
 ### Relationships and Constraints
 
@@ -64,8 +99,9 @@ The Central Library wants to manage book lending and cultural events.
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_library.png)
+
+<img width="857" height="467" alt="image" src="https://github.com/user-attachments/assets/26b61d3a-3a4a-43fd-aaba-edf1cd7197dc" />
+
 
 ### Entities and Attributes
 
@@ -106,8 +142,9 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Waiters assigned to serve reservations.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_restaurant.png)
+
+<img width="857" height="467" alt="image" src="https://github.com/user-attachments/assets/f107b0bf-1a19-4d1f-b5ec-c1b464359046" />
+
 
 ### Entities and Attributes
 
