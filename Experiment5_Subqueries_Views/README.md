@@ -46,7 +46,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output1](output.png)
+<img width="1233" height="387" alt="Screenshot 2025-10-27 153007" src="https://github.com/user-attachments/assets/b8beb20b-350f-41c3-82c7-146087a522cd" />
+
 
 **Question 2**
 ---
@@ -58,7 +59,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output2](output.png)
+<img width="306" height="244" alt="Screenshot 2025-10-27 153013" src="https://github.com/user-attachments/assets/0b5aeaff-30e7-4514-b283-6055dade8883" />
+
 
 **Question 3**
 ---
@@ -70,7 +72,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output3](output.png)
+<img width="1072" height="483" alt="Screenshot 2025-10-27 153027" src="https://github.com/user-attachments/assets/8f8f7f6b-e930-4c83-ae9f-edc11be8e328" />
+
 
 **Question 4**
 ---
@@ -82,7 +85,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output4](output.png)
+<img width="1235" height="305" alt="Screenshot 2025-10-27 153042" src="https://github.com/user-attachments/assets/e3bfb06c-4e18-4be6-94bb-cf3667ed8c95" />
+
 
 **Question 5**
 ---
@@ -94,7 +98,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output5](output.png)
+<img width="1103" height="304" alt="Screenshot 2025-10-27 153054" src="https://github.com/user-attachments/assets/8a912e23-ae1f-4a6f-9370-6b2d42aa0bf3" />
+
 
 **Question 6**
 ---
@@ -106,7 +111,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output6](output.png)
+<img width="1075" height="320" alt="Screenshot 2025-10-27 153105" src="https://github.com/user-attachments/assets/704c0395-9c4f-42ad-828b-8ee5b51a931e" />
+
 
 **Question 7**
 ---
@@ -118,7 +124,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output7](output.png)
+<img width="755" height="297" alt="Screenshot 2025-10-27 153115" src="https://github.com/user-attachments/assets/7fa2542e-62d6-4f01-bf0d-f2bab2933691" />
+
 
 **Question 8**
 ---
@@ -130,7 +137,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output8](output.png)
+<img width="488" height="354" alt="Screenshot 2025-10-27 153127" src="https://github.com/user-attachments/assets/53b48ed9-2361-4961-9c13-a1819d65cade" />
+
 
 **Question 9**
 ---
@@ -142,7 +150,8 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output9](output.png)
+<img width="1181" height="317" alt="Screenshot 2025-10-27 153139" src="https://github.com/user-attachments/assets/2d96d236-d6ce-4c3d-a71e-bca67762339a" />
+
 
 **Question 10**
 ---
@@ -154,8 +163,12 @@ DROP VIEW view_name;
 
 **Output:**
 
-![Output10](output.png)
+<img width="1111" height="334" alt="Screenshot 2025-10-27 153152" src="https://github.com/user-attachments/assets/34f76f5e-f941-4f4e-80ec-c5be310b33e7" />
+
 
 
 ## RESULT
 Thus, the SQL queries to implement subqueries and views have been executed successfully.
+
+<img width="1261" height="70" alt="Screenshot 2025-10-27 150439" src="https://github.com/user-attachments/assets/b88e60e2-6c30-49f7-94fb-43b5abd565b7" />
+
