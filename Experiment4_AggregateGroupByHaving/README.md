@@ -48,7 +48,7 @@ ORDER BY DoctorID;
 
 **Output:**
 
-![Output1](output.png)
+<img width="1233" height="387" alt="Screenshot 2025-10-27 153007" src="https://github.com/user-attachments/assets/2be6e39e-1258-44c7-be16-273003c1cd19" />
 
 **Question 2**
 ---
@@ -63,7 +63,8 @@ ORDER BY Medication;
 
 **Output:**
 
-![Output2](output.png)
+<img width="306" height="244" alt="Screenshot 2025-10-27 153013" src="https://github.com/user-attachments/assets/7af62972-cf01-42ac-b220-7a64d0de1220" />
+
 
 **Question 3**
 ---
@@ -78,7 +79,8 @@ ORDER BY Address;
 
 **Output:**
 
-![Output3](output.png)
+<img width="1072" height="483" alt="Screenshot 2025-10-27 153027" src="https://github.com/user-attachments/assets/8fe26a4d-13c1-495f-8a1e-9be03fbc7139" />
+
 
 **Question 4**
 ---
@@ -91,7 +93,8 @@ WHERE city!='Noida';
 
 **Output:**
 
-![Output4](output.png)
+<img width="1235" height="305" alt="Screenshot 2025-10-27 153042" src="https://github.com/user-attachments/assets/59bd8b5a-2ca3-4d3e-942d-71d80fc7dcd9" />
+
 
 **Question 5**
 ---
@@ -116,7 +119,9 @@ FROM orders;
 
 **Output:**
 
-![Output5](output.png)
+<img width="1103" height="304" alt="Screenshot 2025-10-27 153054" src="https://github.com/user-attachments/assets/322b02b9-d1c3-4fb2-b836-8b243d7e60bf" />
+
+
 
 **Question 6**
 ---
@@ -141,7 +146,8 @@ WHERE grade IS NOT NULL;
 
 **Output:**
 
-![Output6](output.png)
+<img width="1075" height="320" alt="Screenshot 2025-10-27 153105" src="https://github.com/user-attachments/assets/0cf1a2cc-4e3f-498c-840e-9bf2597737ab" />
+
 
 **Question 7**
 ---
@@ -164,7 +170,8 @@ WHERE income>50000;
 
 **Output:**
 
-![Output7](output.png)
+<img width="755" height="297" alt="Screenshot 2025-10-27 153115" src="https://github.com/user-attachments/assets/5853f749-f3c9-444a-8a1d-32bff1e06957" />
+
 
 **Question 8**
 ---
@@ -179,7 +186,8 @@ HAVING SUM(salary)>5000;
 
 **Output:**
 
-![Output8](output.png)
+<img width="488" height="354" alt="Screenshot 2025-10-27 153127" src="https://github.com/user-attachments/assets/1da149ef-dfc5-446d-8eaa-dec511feb757" />
+
 
 **Question 9**
 ---
@@ -194,7 +202,8 @@ HAVING AVG(income)>500000;
 
 **Output:**
 
-![Output9](output.png)
+<img width="1181" height="317" alt="Screenshot 2025-10-27 153139" src="https://github.com/user-attachments/assets/da4eda7f-8fdf-419b-a508-6a841865e25d" />
+
 
 **Question 10**
 ---
@@ -209,8 +218,14 @@ HAVING AVG(workhour) BETWEEN 10 AND 12;
 
 **Output:**
 
-![Output10](output.png)
+
+<img width="1111" height="334" alt="Screenshot 2025-10-27 153152" src="https://github.com/user-attachments/assets/ba70d746-05a4-4a49-8576-a8ef49191b00" />
 
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
+
+<img width="1265" height="110" alt="Screenshot 2025-10-27 150429" src="https://github.com/user-attachments/assets/16bfef77-31ff-4028-a0fa-d20e79278cb1" />
+
+
+
