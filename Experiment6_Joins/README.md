@@ -62,7 +62,8 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output1](output.png)
+<img width="1200" height="366" alt="Screenshot 2025-10-27 153603" src="https://github.com/user-attachments/assets/ce83e8cd-ee62-4f6a-806b-871aecaf06dd" />
+
 
 **Question 2**
 ---
@@ -74,7 +75,8 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output2](output.png)
+<img width="1201" height="762" alt="Screenshot 2025-10-27 153618" src="https://github.com/user-attachments/assets/62429b5f-fcad-4e2e-a554-5472a9ff44b0" />
+
 
 **Question 3**
 ---
@@ -86,7 +88,8 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output3](output.png)
+<img width="1032" height="369" alt="Screenshot 2025-10-27 153641" src="https://github.com/user-attachments/assets/c5736546-7cfb-4ec3-9721-d49c8dd5673f" />
+
 
 **Question 4**
 ---
@@ -98,7 +101,8 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output4](output.png)
+<img width="1045" height="217" alt="Screenshot 2025-10-27 153655" src="https://github.com/user-attachments/assets/1fa1fce8-97a7-49a8-803b-519caa8ecc60" />
+
 
 **Question 5**
 ---
@@ -110,7 +114,8 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output5](output.png)
+<img width="1059" height="280" alt="Screenshot 2025-10-27 153708" src="https://github.com/user-attachments/assets/d5658094-1215-422a-8914-c70a095ba9be" />
+
 
 **Question 6**
 ---
@@ -122,7 +127,8 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output6](output.png)
+<img width="1065" height="226" alt="Screenshot 2025-10-27 153716" src="https://github.com/user-attachments/assets/74e6c6de-a032-4b48-bea4-071fe3552b97" />
+
 
 **Question 7**
 ---
@@ -134,7 +140,8 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output7](output.png)
+<img width="1061" height="217" alt="Screenshot 2025-10-27 153820" src="https://github.com/user-attachments/assets/6be0625f-77e2-4e31-9913-1bbede343908" />
+
 
 **Question 8**
 ---
@@ -146,7 +153,8 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output8](output.png)
+<img width="1026" height="462" alt="Screenshot 2025-10-27 153838" src="https://github.com/user-attachments/assets/d342384b-f177-46aa-8499-892047dba17b" />
+
 
 **Question 9**
 ---
@@ -158,7 +166,9 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output9](output.png)
+<img width="685" height="417" alt="Screenshot 2025-10-27 153858" src="https://github.com/user-attachments/assets/10e60c88-700c-40e1-a2f6-d87079486034" />
+
+
 
 **Question 10**
 ---
@@ -170,8 +180,12 @@ ON table1.column = table2.column;
 
 **Output:**
 
-![Output10](output.png)
+<img width="284" height="217" alt="Screenshot 2025-10-27 153908" src="https://github.com/user-attachments/assets/ee4042be-c5a7-4059-88c3-e838da7f26d3" />
+
 
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
+
+<img width="1253" height="71" alt="Screenshot 2025-10-27 150448" src="https://github.com/user-attachments/assets/c14b725b-c0ff-4f3b-bb05-b6eef6863110" />
+
