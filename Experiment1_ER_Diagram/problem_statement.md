@@ -110,7 +110,7 @@ The Central Library wants to manage book lending and cultural events.
    event_date
    room_id(FK)
 5.Speaker
-   speaker_id
+   speaker_id(PK)
    name
 6.Room
    room_id(PK)
@@ -164,36 +164,37 @@ A popular restaurant wants to manage reservations, orders, and billing.
 ### Entities and Attributes
 ```
 1. Customer
-* customerID
+* customerID(PK)
 * Name
 * Phone no
 2. Reservation
-* reservationID
+* reservationID(PK)
 * Reservation date and time
-* customerID
+* customerID(FK)
 3. Table
-* tableID
+* tableID(PK)
 * Table number
 * Capacity
+* categoryID(FK)
 4. Category
-* categoryID
+* categoryID(PK)
 * Category Name
 5. Dish
-* dishID
+* dishID(PK)
 * Name
 * Price
-* categoryID
+* categoryID(FK)
 6. Order
-* orderID
+* orderID(PK)
 * Order time
-* reservationID
-* waiterID
+* reservationID(FK)
+* waiterID(FK)
 7. Bill
-* billID
+* billID(PK)
 * Total amount
-* orderID
+* orderID(FK)
 8. Waiter
-* waiterID
+* waiterID(PK)
 * Name
 * Phone no
 ```
