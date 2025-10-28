@@ -23,7 +23,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 ### ER Diagram:
 
-<img width="891" height="529" alt="image" src="https://github.com/user-attachments/assets/f93d8fb3-ddaa-4aad-a9c0-763d5d0df24a" />
+<img width="543" height="353" alt="image" src="https://github.com/user-attachments/assets/13d37503-64b6-42ff-88cc-79aa220e18f0" />
 
 
 ### Entities and Attributes.
@@ -59,7 +59,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 ### Assumptions
 ```
 1.Every user must register as a member before accessing gym services.
-2.A member has a unique ID and unique contact number.
+2.A member has a unique contact number.
 3.Each session or class is led by exactly one trainer.
 4.Trainers can conduct multiple sessions but not at overlapping times.
 ```
@@ -81,13 +81,13 @@ The Central Library wants to manage book lending and cultural events.
 
 ### ER Diagram:
 
-<img width="857" height="467" alt="image" src="https://github.com/user-attachments/assets/26b61d3a-3a4a-43fd-aaba-edf1cd7197dc" />
 
+<img width="891" height="529" alt="image" src="https://github.com/user-attachments/assets/54b1c432-d739-4c7f-9688-5bbde62c9424" />
 
 ### Entities and Attributes
 ```
 1.MEMBER
-   memb_id
+   memb_id(PK)
    memb_name
    contact no.
    date
@@ -96,24 +96,24 @@ The Central Library wants to manage book lending and cultural events.
    due_date
    return_date
    fine
-   memb_id
-   book_id
-   loan_id
+   memb_id(FK)
+   book_id(FK)
+   loan_id(PK)
 3.BOOK
    Title
    Author
    Category
-   book_id
+   book_id(PK)
 4.Event
-   event_id
+   event_id(PK)
    event_name
    event_date
-   room_id
+   room_id(FK)
 5.Speaker
    speaker_id
    name
 6.Room
-   room_id
+   room_id(PK)
    room_name
    capacity
    purpose
