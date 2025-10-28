@@ -57,9 +57,12 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 ```
 
 ### Assumptions
-- 
-- 
-- 
+```
+1.Every user must register as a member before accessing gym services.
+2.A member has a unique ID and unique contact number.
+3.Each session or class is led by exactly one trainer.
+4.Trainers can conduct multiple sessions but not at overlapping times.
+```
 
 ---
 
@@ -130,9 +133,13 @@ The Central Library wants to manage book lending and cultural events.
    Each Event occurs in exactly one Room (1:N).
  ```  
 ### Assumptions
-- 
-- 
-- 
+```
+1.A member must be registered before borrowing books or registering for events.
+2.Member contact number is unique.
+3.Each loan refers to a single book and a single member.
+4.Loan must have both a loan date and due date.
+5.Every book belongs to exactly one category
+```
 
 ---
 
@@ -223,10 +230,16 @@ A popular restaurant wants to manage reservations, orders, and billing.
    1 : N
 ```
 ### Assumptions
-- 
-- 
-- 
-
+```
+1.A customer must register before making a reservation
+2.Every reservation requires a valid and unique customerID.
+3.A table may serve multiple reservations, but not simultaneously
+4.Each order must be served by exactly one waiter
+5.A customer can have multiple reservations
+6.But no double-booking at the same date and time in the same table.
+7.Contact details like phone number are assumed unique.
+8.Order time is recorded
+```
 ---
 
 ## Instructions for Students
