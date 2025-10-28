@@ -71,7 +71,7 @@ WHERE supplier_id=6;
 
 **Output:**
 
-![Output1](output.png)
+<img width="1234" height="370" alt="Screenshot 2025-10-28 093549" src="https://github.com/user-attachments/assets/c74cd4cb-05aa-40ef-974d-41a4256d3394" />
 
 **Question 2**
 ---
@@ -99,7 +99,9 @@ WHERE quantity<10 and category='Snacks';
 
 **Output:**
 
-![Output2](output.png)
+<img width="1144" height="383" alt="Screenshot 2025-10-28 093604" src="https://github.com/user-attachments/assets/0ed010ce-59a8-4b64-af23-2557a538b982" />
+
+
 
 **Question 3**
 ---
@@ -140,7 +142,8 @@ WHERE supplier_id=4);
 
 **Output:**
 
-![Output3](output.png)
+<img width="1167" height="243" alt="Screenshot 2025-10-28 093614" src="https://github.com/user-attachments/assets/dcd1fe3c-7a38-40f9-afd2-9408fbad649e" />
+
 
 **Question 4**
 ---
@@ -163,7 +166,8 @@ WHERE product_id=1;
 
 **Output:**
 
-![Output4](output.png)
+<img width="811" height="144" alt="Screenshot 2025-10-28 093623" src="https://github.com/user-attachments/assets/e3936189-a571-4318-b43d-4e8c2a3689aa" />
+
 
 **Question 5**
 ---
@@ -189,7 +193,8 @@ set quantity=(quantity*1.10);
 
 **Output:**
 
-![Output5](output.png)
+<img width="1225" height="425" alt="Screenshot 2025-10-28 093639" src="https://github.com/user-attachments/assets/b9b8308a-0e8d-40eb-87fa-753b788486cb" />
+
 
 **Question 6**
 ---
@@ -202,7 +207,8 @@ WHERE (GRADE=3 OR AGENT_CODE='A008') AND OUTSTANDING_AMT < 5000;
 
 **Output:**
 
-![Output6](output.png)
+<img width="1234" height="259" alt="Screenshot 2025-10-28 093656" src="https://github.com/user-attachments/assets/124abdad-1bfc-4fe7-b9d2-df3dc5553e03" />
+
 
 **Question 7**
 ---
@@ -219,7 +225,8 @@ WHERE doctor_id=1;
 
 **Output:**
 
-![Output7](output.png)
+<img width="795" height="156" alt="Screenshot 2025-10-28 093705" src="https://github.com/user-attachments/assets/cc65f32f-5f68-4e98-b88c-e7da8bed5f35" />
+
 
 **Question 8**
 ---
@@ -232,7 +239,9 @@ WHERE (GRADE >2 AND PAYMENT_AMT < (SELECT AVG(PAYMENT_AMT) FROM Customer)) OR OU
 
 **Output:**
 
-![Output8](output.png)
+<img width="1352" height="309" alt="Screenshot 2025-10-28 093729" src="https://github.com/user-attachments/assets/1e217054-76b7-471c-b088-11213649d5fe" />
+
+
 
 **Question 9**
 ---
@@ -245,7 +254,8 @@ WHERE GRADE!=3;
 
 **Output:**
 
-![Output9](output.png)
+<img width="150" height="237" alt="Screenshot 2025-10-28 093735" src="https://github.com/user-attachments/assets/f0ad7c51-48dc-4e0d-9009-bd9e6affceda" />
+
 
 **Question 10**
 ---
@@ -261,7 +271,12 @@ WHERE specialization IS NULL;
 
 **Output:**
 
-![Output10](output.png)
+<img width="534" height="496" alt="Screenshot 2025-10-28 093743" src="https://github.com/user-attachments/assets/1e0103d1-81fa-49d5-a85e-01d9b77d83fd" />
+
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
+
+<img width="1233" height="74" alt="Screenshot 2025-10-27 150418" src="https://github.com/user-attachments/assets/a2a8d73b-3662-490a-ad6c-78013e74e777" />
+
+
