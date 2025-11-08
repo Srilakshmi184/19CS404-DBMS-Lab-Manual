@@ -62,7 +62,7 @@ EXCEPTION
 END;
 ```
 
-### **Question 1: Simple Cursor with Exception Handling**
+## **Question 1: Simple Cursor with Exception Handling**
 
 **Write a PL/SQL program using a simple cursor to fetch employee names and designations from the `employees` table. Implement exception handling for the following cases:**
 
@@ -75,8 +75,12 @@ END;
 - Insert some sample data into the table.
 - Use a simple cursor to fetch and display employee names and designations.
 - Implement exception handling to catch the relevant exceptions and display appropriate messages.
+- 
+## PROGRAM
+```
+```
 
-**Output:**  
+## OUTPUT
 The program should display the employee details or an error message.
 
 ---
@@ -95,7 +99,12 @@ The program should display the employee details or an error message.
 - Use a parameterized cursor to accept a salary range as input and fetch employees within that range.
 - Implement exception handling to catch and display relevant error messages.
 
-**Output:**  
+## PROGRAM
+```
+
+```
+
+## OUTPUT 
 The program should display the employee details within the specified salary range or an error message if no data is found.
 
 ---
@@ -114,7 +123,11 @@ The program should display the employee details within the specified salary rang
 - Use a cursor FOR loop to fetch and display employee names along with their department numbers.
 - Implement exception handling to catch the relevant exceptions.
 
-**Output:**  
+## PROGRAM
+```
+```
+
+## OUTPUT
 The program should display employee names with their department numbers or the appropriate error message if no data is found.
 
 ---
@@ -132,8 +145,11 @@ The program should display employee names with their department numbers or the a
 - Insert sample data into the `employees` table.
 - Declare a cursor using `%ROWTYPE` to fetch complete rows from the `employees` table.
 - Implement exception handling to catch the relevant exceptions and display appropriate messages.
+## PROGRAM
+```
+```
 
-**Output:**  
+## OUTPUT
 The program should display employee records or the appropriate error message if no data is found.
 
 ---
@@ -151,8 +167,13 @@ The program should display employee records or the appropriate error message if 
 - Insert sample data into the `employees` table with different department numbers.
 - Use a cursor with the `FOR UPDATE` clause to lock the rows of employees in a specific department and update their salary.
 - Implement exception handling to handle `NO_DATA_FOUND` or other errors that may occur.
+- 
+## PROGRAM
+```
 
-**Output:**  
+```
+
+## OUTPUT
 The program should update employee salaries and display a message, or it should display an error message if no data is found.
 
 ---
