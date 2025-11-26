@@ -144,7 +144,7 @@ WHERE product_id = 101;
 - The `audit_log` table will maintain a count of how many updates have been made to the `customer_orders` table.
 ## PROGRAM
 ```
-
+```
 ---
 
 ## 5. Write a trigger that checks a condition before allowing insertion into a table.
@@ -156,7 +156,9 @@ WHERE product_id = 101;
 - If the inserted salary in the `employees` table is below the condition (e.g., salary < 3000), the insert operation is blocked, and an error message is raised, such as: `ERROR: Salary below minimum threshold.`
 ## PROGRAM
 ```
+```
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
+
 
